@@ -1,2 +1,2 @@
 # sophtware
-Experimental peoject
+Experimental project
